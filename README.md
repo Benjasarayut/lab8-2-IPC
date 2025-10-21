@@ -25,11 +25,11 @@ lab8-2-ipc/
 📘 ขั้นตอนสำคัญ
 
 ตั้งค่า project และ Electron
-
+```
 npm init -y
 
 npm install electron --save-dev
-
+```
 main.js
 
 สร้าง BrowserWindow
